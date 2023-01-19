@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/videos-react/static/css/main.a6986bec.css",
+    "main.js": "/videos-react/static/js/main.14e9555d.js",
+    "static/media/avatar.png": "/videos-react/static/media/avatar.3d99fc517bcc134873f6.png",
+    "static/media/videoImage.png": "/videos-react/static/media/videoImage.4e8ddfd327cdbff04c2e.png",
+    "static/media/youtubeBanner.png": "/videos-react/static/media/youtubeBanner.e6485396819d098ff6ca.png",
+    "static/media/video-logo.png": "/videos-react/static/media/video-logo.c48759171b27043b8f1c.png",
+    "index.html": "/videos-react/index.html",
+    "main.a6986bec.css.map": "/videos-react/static/css/main.a6986bec.css.map",
+    "main.14e9555d.js.map": "/videos-react/static/js/main.14e9555d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6986bec.css",
+    "static/js/main.14e9555d.js"
+  ]
+}
