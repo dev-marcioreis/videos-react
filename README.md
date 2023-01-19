@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Vídeos (ReactJS)
+Projeto desenvolvido em React para consumo de API de vídeos.<br>
+Link de acesso:
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
