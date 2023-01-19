@@ -1,6 +1,6 @@
 # Vídeos (ReactJS)
 Projeto desenvolvido em React para consumo de API de vídeos.<br>
-Link de acesso:
+Link de acesso: https://dev-marcioreis.github.io/videos-react/
 
 Getting Started with Create React App
 
