@@ -6,7 +6,7 @@ Projeto desenvolvido em React para consumo de API de vídeos.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 React
 
 ## ✒️ Autor
